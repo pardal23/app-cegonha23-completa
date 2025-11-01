@@ -1,0 +1,5 @@
+{
+  "name": "Mini Base de Dados Local",
+  "description": "Uma aplicação web simples, mas poderosa, para gerenciar arquivos localmente usando IndexedDB, com pré-visualização de mídia, editor de texto e funcionalidades de importação/exportação.",
+  "requestFramePermissions": []
+}
